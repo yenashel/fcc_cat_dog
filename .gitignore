@@ -1,0 +1,6 @@
+__pycache__/
+__MACOSX/
+.jpg
+cats_and_dogs/**
+*.zip*
+*.jpg*
